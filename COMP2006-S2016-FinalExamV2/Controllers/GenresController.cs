@@ -9,6 +9,11 @@ using System.Web;
 using System.Web.Mvc;
 using COMP2006_S2016_FinalExamV2.Models;
 
+/*
+    Robert Page 200281838 2016-08-18 Version 1.0
+    This file is the controller for Genres
+*/
+
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
     public class GenresController : Controller
